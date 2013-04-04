@@ -1,0 +1,4 @@
+doc
+===
+
+all documents work
